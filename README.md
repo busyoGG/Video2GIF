@@ -1,4 +1,4 @@
-# Video2Gif
+# Video2GIF
 
 ## 简介
 
