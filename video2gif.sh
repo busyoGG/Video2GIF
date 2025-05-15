@@ -3,7 +3,7 @@
 # 默认参数
 HEIGHT=600
 FPS=30
-COLOR=""
+COLOR=256
 
 # 用于记录位置参数
 POSITIONAL=()
